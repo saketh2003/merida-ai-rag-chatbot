@@ -1,0 +1,40 @@
+# Environment & Secret files
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+ENV/
+env/
+
+# SQLite Database
+*.db
+*.sqlite3
+chatbot.db
+
+# Node.js & React Frontend
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local Uploads & Vector Storage
+uploads/
+backend/uploads/
+chroma_db/
+backend/chroma_db/
+storage/
+
+# IDE & OS files
+.DS_Store
+.vscode/
+.idea/
