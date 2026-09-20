@@ -233,7 +233,8 @@ npm run build
 
 <img width="2827" height="1414" alt="image" src="https://github.com/user-attachments/assets/937f9fc7-feff-442d-a2e7-e81ab442cff0" />
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/39ebb6ec-eded-4a34-9413-d41799ec9fa2" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d35b10a5-1031-41d8-8ac4-02814b2177f1" />
+
 
 
 
