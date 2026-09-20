@@ -228,3 +228,17 @@ cd frontend
 npm run build
 ```
 **Result**: `✓ built in 3.38s` (0 errors).
+
+
+
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f2f4e35e-7347-4c1b-9194-1ab49d86da0a" />
+
+
+
+<img width="2821" height="1506" alt="image" src="https://github.com/user-attachments/assets/3b9f9268-130f-437a-852d-14d49dec83f5" />
+
+
+<img width="2827" height="1414" alt="image" src="https://github.com/user-attachments/assets/937f9fc7-feff-442d-a2e7-e81ab442cff0" />
+
+
